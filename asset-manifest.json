@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cv/static/css/main.58726176.css",
-    "main.js": "/cv/static/js/main.88b3bcae.js",
+    "main.js": "/cv/static/js/main.1fb4cd1b.js",
     "static/js/787.a71561b8.chunk.js": "/cv/static/js/787.a71561b8.chunk.js",
     "static/media/tripguide.png": "/cv/static/media/tripguide.991986c795ea140ba063.png",
     "static/media/carrent.png": "/cv/static/media/carrent.6b1e855ede285c40b77f.png",
@@ -15,6 +15,7 @@
     "static/media/backend.png": "/cv/static/media/backend.08c8d93b8142c41a9e63.png",
     "static/media/mobile.png": "/cv/static/media/mobile.15e7b89f1018dcdba6e7.png",
     "static/media/creator.png": "/cv/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/cons.png": "/cv/static/media/cons.24b64556fbe47e835558.png",
     "static/media/starbucks.png": "/cv/static/media/starbucks.c086db5b166ea2f14de1.png",
     "static/media/github.png": "/cv/static/media/github.ed1c06d925fff0b57e32.png",
     "static/media/close.svg": "/cv/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
@@ -22,11 +23,11 @@
     "index.html": "/cv/index.html",
     "static/media/threejs.svg": "/cv/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
     "main.58726176.css.map": "/cv/static/css/main.58726176.css.map",
-    "main.88b3bcae.js.map": "/cv/static/js/main.88b3bcae.js.map",
+    "main.1fb4cd1b.js.map": "/cv/static/js/main.1fb4cd1b.js.map",
     "787.a71561b8.chunk.js.map": "/cv/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58726176.css",
-    "static/js/main.88b3bcae.js"
+    "static/js/main.1fb4cd1b.js"
   ]
 }
