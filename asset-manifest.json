@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.58726176.css",
-    "main.js": "/cv/static/js/main.1fb4cd1b.js",
+    "main.css": "/cv/static/css/main.6aa3ac4d.css",
+    "main.js": "/cv/static/js/main.d14e9685.js",
     "static/js/787.a71561b8.chunk.js": "/cv/static/js/787.a71561b8.chunk.js",
     "static/media/tripguide.png": "/cv/static/media/tripguide.991986c795ea140ba063.png",
     "static/media/carrent.png": "/cv/static/media/carrent.6b1e855ede285c40b77f.png",
@@ -11,6 +11,7 @@
     "static/media/Pythonlogo.png": "/cv/static/media/Pythonlogo.1eaaad356f1e20a2540f.png",
     "static/media/sarhanlogo.jpg": "/cv/static/media/sarhanlogo.13619345896636c81878.jpg",
     "static/media/web.png": "/cv/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/stacked44.png": "/cv/static/media/stacked44.6095c1da9353cf48d77d.png",
     "static/media/logoo.png": "/cv/static/media/logoo.22bdd9b11c09abfaa357.png",
     "static/media/backend.png": "/cv/static/media/backend.08c8d93b8142c41a9e63.png",
     "static/media/mobile.png": "/cv/static/media/mobile.15e7b89f1018dcdba6e7.png",
@@ -22,12 +23,12 @@
     "static/media/menu.svg": "/cv/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
     "index.html": "/cv/index.html",
     "static/media/threejs.svg": "/cv/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
-    "main.58726176.css.map": "/cv/static/css/main.58726176.css.map",
-    "main.1fb4cd1b.js.map": "/cv/static/js/main.1fb4cd1b.js.map",
+    "main.6aa3ac4d.css.map": "/cv/static/css/main.6aa3ac4d.css.map",
+    "main.d14e9685.js.map": "/cv/static/js/main.d14e9685.js.map",
     "787.a71561b8.chunk.js.map": "/cv/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58726176.css",
-    "static/js/main.1fb4cd1b.js"
+    "static/css/main.6aa3ac4d.css",
+    "static/js/main.d14e9685.js"
   ]
 }
