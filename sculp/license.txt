@@ -1,0 +1,11 @@
+Model Information:
+* title:	Statuette de femme antique
+* source:	https://sketchfab.com/3d-models/statuette-de-femme-antique-b0cc21ca37b649fda195c2b87a979f12
+* author:	3dcreation_lyon (https://sketchfab.com/3dcreation_lyon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Statuette de femme antique" (https://sketchfab.com/3d-models/statuette-de-femme-antique-b0cc21ca37b649fda195c2b87a979f12) by 3dcreation_lyon (https://sketchfab.com/3dcreation_lyon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
